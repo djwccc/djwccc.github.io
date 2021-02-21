@@ -3,17 +3,28 @@
     <id>https://djwccc.jackiecat.xyz</id>
     <title>Djwccc&#39;s blogs</title>
     <link href="https://djwccc.jackiecat.xyz" />
-    <updated>2021-02-20T08:47:04.000Z</updated>
+    <updated>2021-02-21T06:15:00.000Z</updated>
     <entry>
-        <id>https://djwccc.jackiecat.xyz/2021/02/20/hello/</id>
+        <id>https://djwccc.jackiecat.xyz/2021/02/21/hello/</id>
         <title>hello</title>
-        <link rel="alternate" href="https://djwccc.jackiecat.xyz/2021/02/20/hello/"/>
+        <link rel="alternate" href="https://djwccc.jackiecat.xyz/2021/02/21/hello/"/>
         <content type="html">&lt;h1 id=&#34;hello&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hello&#34;&gt;#&lt;/a&gt; Hello&lt;/h1&gt;
 &lt;p&gt;这是我这个博客的第一篇文章&lt;br&gt;
-我需要考虑一下这个网站里面写些什么博客&lt;/p&gt;
-&lt;h2 id=&#34;嘻嘻&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#嘻嘻&#34;&gt;#&lt;/a&gt; 嘻嘻&lt;/h2&gt;
+我需要考虑一下这个网站里面写些什么博客&lt;br&gt;
+～～～&lt;br&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&#34;welcome&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#welcome&#34;&gt;#&lt;/a&gt; Welcome!&lt;/h2&gt;
+&lt;h2 id=&#34;欢迎来到我的博客网站~&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#欢迎来到我的博客网站~&#34;&gt;#&lt;/a&gt; 欢迎来到我的博客网站～&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;em&gt;在这个网站上面我会写一些关于编程、计算机的内容分享给大家~~~
+&lt;p&gt;之后，请多多关照哦&lt;/p&gt;
 </content>
-        <updated>2021-02-20T08:47:04.000Z</updated>
+        <updated>2021-02-21T06:15:00.000Z</updated>
     </entry>
     <entry>
         <id>https://djwccc.jackiecat.xyz/2021/02/20/hello-world/</id>
