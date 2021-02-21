@@ -5,6 +5,14 @@
     "home_page_url": "https://djwccc.jackiecat.xyz",
     "items": [
         {
+            "id": "https://djwccc.jackiecat.xyz/2021/02/21/%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80windows%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6/",
+            "url": "https://djwccc.jackiecat.xyz/2021/02/21/%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80windows%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6/",
+            "title": "如何打开windows系统的命令提示符",
+            "date_published": "2021-02-21T09:02:43.000Z",
+            "content_html": "<h1 id=\"命令提示符\"><a class=\"markdownIt-Anchor\" href=\"#命令提示符\">#</a> 命令提示符</h1>\n<h2 id=\"命令提示符简称cmd\"><a class=\"markdownIt-Anchor\" href=\"#命令提示符简称cmd\">#</a> 命令提示符简称 cmd</h2>\n<p>打开方式有好几种，这里就列出 3 种</p>\n<br>\n<ul>\n<li>1</li>\n</ul>\n<blockquote>\n<p>win+r 键<br>\n<img data-src=./imgs/1.png style='zoom:40%'><br>\n然后，输入 cmd</p>\n</blockquote>\n<p>确定～</p>\n<br>\n<ul>\n<li>2</li>\n</ul>\n<blockquote>\n<p>打开 windows 系统的搜索，我们要搜索命令提示符<br>\n<img data-src=./imgs/2.png style='zoom:40%'></p>\n</blockquote>\n<br>\n<ul>\n<li>3</li>\n</ul>\n<blockquote>\n<p>打开文件夹<br>\n在最顶上的路径输入框输入 cmd<br>\n<img data-src=./imgs/3.png style='zoom:40%'></p>\n</blockquote>\n<p>好了，现在你应该可以学会如何打开命令提示符了吧</p>\n<p><em>让我们继续努力编程吧！</em></p>\n",
+            "tags": []
+        },
+        {
             "id": "https://djwccc.jackiecat.xyz/2021/02/21/hello/",
             "url": "https://djwccc.jackiecat.xyz/2021/02/21/hello/",
             "title": "hello",
