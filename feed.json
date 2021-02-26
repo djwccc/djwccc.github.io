@@ -19,7 +19,7 @@
             "url": "https://djwccc.jackiecat.xyz/2021/02/21/open_cmd/",
             "title": "如何打开windows系统的命令提示符",
             "date_published": "2021-02-21T09:02:43.000Z",
-            "content_html": "<h1 id=\"命令提示符\"><a class=\"markdownIt-Anchor\" href=\"#命令提示符\">#</a> 命令提示符</h1>\n<br>\n<p>命令提示符简称 cmd</p>\n<p>打开方式有好几种，这里就列出 3 种</p>\n<br>\n<ul>\n<li>1</li>\n</ul>\n<blockquote>\n<p>win+r 键<br>\n<img data-src=./imgs/1.png style='zoom:40%'><br>\n然后，输入 cmd</p>\n</blockquote>\n<p>确定～</p>\n<br>\n<ul>\n<li>2</li>\n</ul>\n<blockquote>\n<p>打开 windows 系统的搜索，我们要搜索命令提示符<br>\n<img data-src=./imgs/2.png style='zoom:40%'></p>\n</blockquote>\n<br>\n<ul>\n<li>3</li>\n</ul>\n<blockquote>\n<p>打开文件夹<br>\n在最顶上的路径输入框输入 cmd<br>\n<img data-src=./imgs/3.png style='zoom:40%'></p>\n</blockquote>\n<p>好了，现在你应该可以学会如何打开命令提示符了吧</p>\n<p><em>让我们继续努力编程吧！</em></p>\n",
+            "content_html": "<h1 id=\"命令提示符\"><a class=\"markdownIt-Anchor\" href=\"#命令提示符\">#</a> 命令提示符</h1>\n<br>\n<p>命令提示符简称 cmd</p>\n<p>打开方式有好几种，这里就列出 3 种</p>\n<br>\n<ul>\n<li>1</li>\n</ul>\n<blockquote>\n<p>win+r 键<br>\n<img data-src=\"https://i.loli.net/2021/02/26/8CPXyDnBcJlV6bh.png\" style='zoom:40%'><br>\n然后，输入 cmd</p>\n</blockquote>\n<p>确定～</p>\n<br>\n<ul>\n<li>2</li>\n</ul>\n<blockquote>\n<p>打开 windows 系统的搜索，我们要搜索命令提示符<br>\n<img data-src=\"https://i.loli.net/2021/02/26/cgvMZKYWnm7U4jx.png\" style='zoom:40%'></p>\n</blockquote>\n<br>\n<ul>\n<li>3</li>\n</ul>\n<blockquote>\n<p>打开文件夹<br>\n在最顶上的路径输入框输入 cmd<br>\n<img data-src=\"https://i.loli.net/2021/02/26/6powNehzkbyUdDu.png\" style='zoom:40%'></p>\n</blockquote>\n<p>好了，现在你应该可以学会如何打开命令提示符了吧</p>\n<p><em>让我们继续努力编程吧！</em></p>\n",
             "tags": []
         },
         {
