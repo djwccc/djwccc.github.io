@@ -14,7 +14,7 @@
             <link>https://djwccc.jackiecat.xyz/2021/02/26/python/</link>
             <category>python</category>
             <pubDate>Fri, 26 Feb 2021 19:57:29 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;欢迎来到python的教程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#欢迎来到python的教程&#34;&gt;#&lt;/a&gt; 欢迎来到 python 的教程&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;python基础&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python基础&#34;&gt;#&lt;/a&gt; python 基础&lt;/h1&gt;
 &lt;h2 id=&#34;python介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python介绍&#34;&gt;#&lt;/a&gt; python 介绍&lt;/h2&gt;
 &lt;br&gt;
 &lt;blockquote&gt;
@@ -50,6 +50,19 @@ cmd 会弹出类似这样的文字&lt;/p&gt;
 Type “help”, “copyright”, “credits” or “license” for more   information.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;那么，恭喜你，成功搭建好 python 环境了。&lt;/p&gt;
+&lt;h2 id=&#34;第一行代码&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一行代码&#34;&gt;#&lt;/a&gt; 第一行代码&lt;/h2&gt;
+&lt;br&gt;
+&lt;p&gt;首先打开 python 自带的 IDE&lt;br&gt;
+&lt;img data-src=&#39;https://i.loli.net/2021/02/26/6KgUhi7L1kzJYlw.png&#39;&gt;&lt;br&gt;
+&lt;br&gt;&lt;br&gt;
+然后会显示出这个界面&lt;br&gt;
+&lt;img data-src=&#39;https://i.loli.net/2021/02/26/PjVgprKhzosk78O.png&#39; style=&#39;zoom:50%&#39;&gt;&lt;/p&gt;
+&lt;p&gt;接下来，就可以输入 python 的代码&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption&gt;&lt;span&gt;第一行代码&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;输入后可以发现，你输入了一串代码，按下回车键～&lt;br&gt;
+ 可以看见，系统输出了&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Hello, world!&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;恭喜你！迈出了编程的第一步～&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
