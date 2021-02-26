@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "夏凌薄雾blog • All posts by \"python\" tag",
+    "description": "",
+    "home_page_url": "https://djwccc.jackiecat.xyz",
+    "items": [
+        {
+            "id": "https://djwccc.jackiecat.xyz/2021/02/26/python/",
+            "url": "https://djwccc.jackiecat.xyz/2021/02/26/python/",
+            "title": "python教程",
+            "date_published": "2021-02-26T11:57:29.000Z",
+            "content_html": "<h1 id=\"欢迎来到python的教程\"><a class=\"markdownIt-Anchor\" href=\"#欢迎来到python的教程\">#</a> 欢迎来到 python 的教程</h1>\n<h2 id=\"python介绍\"><a class=\"markdownIt-Anchor\" href=\"#python介绍\">#</a> python 介绍</h2>\n<br>\n<blockquote>\n<p>Python 由荷兰数学和计算机科学研究学会的 Guido van Rossum 于 1990 年代初设计，作为一门叫做 ABC 语言的替代品。Python 提供了高效的高级数据结构，还能简单有效地面向对象编程。Python 语法和动态类型，以及解释型语言的本质，使它成为多数平台上写脚本和快速开发应用的编程语言，随着版本的不断更新和语言新功能的添加，逐渐被用于独立的、大型项目的开发。<br>\nPython 解释器易于扩展，可以使用 C 或 C++（或者其他可以通过 C 调用的语言）扩展新的功能和数据类型。Python 也可用于可定制化软件中的扩展程序语言。Python 丰富的标准库，提供了适用于各个主要系统平台的源码或机器码。</p>\n</blockquote>\n<blockquote>\n<p>简单来说，python 是一门可以编写程序的编程语言</p>\n</blockquote>\n<p><a href='https://www.python.org/'>这里是 python 官网</a>  <br></p>\n<!-- <img data-src='./imgs/4.jpg' style='zoom:70%'> -->\n<figure class=\"highlight python\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"keyword\">import</span> pytesseract</span><br><span class=\"line\"><span class=\"keyword\">from</span> PIL <span class=\"keyword\">import</span> Image</span><br><span class=\"line\"><span class=\"comment\"># 读取图片</span></span><br><span class=\"line\">img = Image.<span class=\"built_in\">open</span>(<span class=\"string\">&#x27;./image/En1.png&#x27;</span>)</span><br><span class=\"line\"><span class=\"comment\"># 识别文字，并指定语言</span></span><br><span class=\"line\">string = pytesseract.image_to_string(img)</span><br><span class=\"line\">print(string)</span><br></pre></td></tr></table></figure>\n<p>这是一段python代码</p>\n<br>\n<h2 id=\"python环境搭建\"><a class=\"markdownIt-Anchor\" href=\"#python环境搭建\">#</a> python 环境搭建</h2>\n<br>\n<p><a href='https://www.python.org/'>python 官网下载</a><br>\n<br></p>\n<p>然而，Linux 是本身自带 python 的环境的，所以 Linux 的用户就不用亲自到官网下载了</p>\n<blockquote>\n<p>安装 python<br>\n 勾选 Add python to PATH<br>\n 点击 Install Now</p>\n</blockquote>\n<p><a href='https://blog.csdn.net/wx25051/article/details/105551000'>详细看如何下载 python</a></p>\n<blockquote>\n<p>打开<a href='https://djwccc.jackiecat.xyz/2021/02/21/open_cmd/'>cmd</a>，输入 python<br>\ncmd 会弹出类似这样的文字</p>\n</blockquote>\n<blockquote>\n<p>Python 3.9.1 (tags/v3.9.1:1e5d33e, Dec 7 2020, 17:08:21)<br>\n[MSC v.1927 64 bit (AMD64)] on win32<br>\nType “help”, “copyright”, “credits” or “license” for more   information.</p>\n</blockquote>\n<p>那么，恭喜你，成功搭建好 python 环境了。</p>\n",
+            "tags": [
+                "python"
+            ]
+        }
+    ]
+}

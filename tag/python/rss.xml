@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>夏凌薄雾blog • Posts by &#34;python&#34; tag</title>
+        <link>https://djwccc.jackiecat.xyz</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 26 Feb 2021 19:57:29 +0800</pubDate>
+        <lastBuildDate>Fri, 26 Feb 2021 19:57:29 +0800</lastBuildDate>
+        <category>python</category>
+        <item>
+            <guid isPermalink="true">https://djwccc.jackiecat.xyz/2021/02/26/python/</guid>
+            <title>python教程</title>
+            <link>https://djwccc.jackiecat.xyz/2021/02/26/python/</link>
+            <category>python</category>
+            <pubDate>Fri, 26 Feb 2021 19:57:29 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;欢迎来到python的教程&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#欢迎来到python的教程&#34;&gt;#&lt;/a&gt; 欢迎来到 python 的教程&lt;/h1&gt;
+&lt;h2 id=&#34;python介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python介绍&#34;&gt;#&lt;/a&gt; python 介绍&lt;/h2&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Python 由荷兰数学和计算机科学研究学会的 Guido van Rossum 于 1990 年代初设计，作为一门叫做 ABC 语言的替代品。Python 提供了高效的高级数据结构，还能简单有效地面向对象编程。Python 语法和动态类型，以及解释型语言的本质，使它成为多数平台上写脚本和快速开发应用的编程语言，随着版本的不断更新和语言新功能的添加，逐渐被用于独立的、大型项目的开发。&lt;br&gt;
+Python 解释器易于扩展，可以使用 C 或 C++（或者其他可以通过 C 调用的语言）扩展新的功能和数据类型。Python 也可用于可定制化软件中的扩展程序语言。Python 丰富的标准库，提供了适用于各个主要系统平台的源码或机器码。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;简单来说，python 是一门可以编写程序的编程语言&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#39;https://www.python.org/&#39;&gt;这里是 python 官网&lt;/a&gt;  &lt;br&gt;&lt;/p&gt;
+&lt;!-- &lt;img data-src=&#39;./imgs/4.jpg&#39; style=&#39;zoom:70%&#39;&gt; --&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; pytesseract&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;from&lt;/span&gt; PIL &lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; Image&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 读取图片&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;img = Image.&lt;span class=&#34;built_in&#34;&gt;open&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;./image/En1.png&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 识别文字，并指定语言&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;string = pytesseract.image_to_string(img)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;print(string)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;这是一段python代码&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id=&#34;python环境搭建&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python环境搭建&#34;&gt;#&lt;/a&gt; python 环境搭建&lt;/h2&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;a href=&#39;https://www.python.org/&#39;&gt;python 官网下载&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;然而，Linux 是本身自带 python 的环境的，所以 Linux 的用户就不用亲自到官网下载了&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;安装 python&lt;br&gt;
+ 勾选 Add python to PATH&lt;br&gt;
+ 点击 Install Now&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#39;https://blog.csdn.net/wx25051/article/details/105551000&#39;&gt;详细看如何下载 python&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;打开&lt;a href=&#39;https://djwccc.jackiecat.xyz/2021/02/21/open_cmd/&#39;&gt;cmd&lt;/a&gt;，输入 python&lt;br&gt;
+cmd 会弹出类似这样的文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Python 3.9.1 (tags/v3.9.1:1e5d33e, Dec 7 2020, 17:08:21)&lt;br&gt;
+[MSC v.1927 64 bit (AMD64)] on win32&lt;br&gt;
+Type “help”, “copyright”, “credits” or “license” for more   information.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;那么，恭喜你，成功搭建好 python 环境了。&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
