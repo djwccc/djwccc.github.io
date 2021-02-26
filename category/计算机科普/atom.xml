@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://djwccc.jackiecat.xyz</id>
+    <title>夏凌薄雾blog • Posts by &#34;计算机科普&#34; category</title>
+    <link href="https://djwccc.jackiecat.xyz" />
+    <updated>2021-02-21T09:02:43.000Z</updated>
+    <category term="python" />
+    <entry>
+        <id>https://djwccc.jackiecat.xyz/2021/02/21/popular-science/open_cmd/</id>
+        <title>如何打开windows系统的命令提示符</title>
+        <link rel="alternate" href="https://djwccc.jackiecat.xyz/2021/02/21/popular-science/open_cmd/"/>
+        <content type="html">&lt;h1 id=&#34;命令提示符&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#命令提示符&#34;&gt;#&lt;/a&gt; 命令提示符&lt;/h1&gt;
+&lt;br&gt;
+&lt;p&gt;命令提示符简称 cmd&lt;/p&gt;
+&lt;p&gt;打开方式有好几种，这里就列出 3 种&lt;/p&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;win+r 键&lt;br&gt;
+&lt;img data-src=&#34;https://i.loli.net/2021/02/26/8CPXyDnBcJlV6bh.png&#34; style=&#39;zoom:40%&#39;&gt;&lt;br&gt;
+然后，输入 cmd&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;确定～&lt;/p&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;打开 windows 系统的搜索，我们要搜索命令提示符&lt;br&gt;
+&lt;img data-src=&#34;https://i.loli.net/2021/02/26/cgvMZKYWnm7U4jx.png&#34; style=&#39;zoom:40%&#39;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;3&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;打开文件夹&lt;br&gt;
+在最顶上的路径输入框输入 cmd&lt;br&gt;
+&lt;img data-src=&#34;https://i.loli.net/2021/02/26/6powNehzkbyUdDu.png&#34; style=&#39;zoom:40%&#39;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;好了，现在你应该可以学会如何打开命令提示符了吧&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;让我们继续努力编程吧！&lt;/em&gt;&lt;/p&gt;
+</content>
+        <updated>2021-02-21T09:02:43.000Z</updated>
+    </entry>
+</feed>
