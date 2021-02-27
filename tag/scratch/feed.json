@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "夏凌薄雾blog • All posts by \"scratch\" tag",
+    "description": "",
+    "home_page_url": "https://djwccc.jackiecat.xyz",
+    "items": [
+        {
+            "id": "https://djwccc.jackiecat.xyz/2021/02/27/programming/scratch/scratch/",
+            "url": "https://djwccc.jackiecat.xyz/2021/02/27/programming/scratch/scratch/",
+            "title": "scratch基础",
+            "date_published": "2021-02-27T13:30:56.000Z",
+            "content_html": "<h1 id=\"scratch基础\"><a class=\"markdownIt-Anchor\" href=\"#scratch基础\">#</a> scratch 基础</h1>\n<h2 id=\"scratch介绍\"><a class=\"markdownIt-Anchor\" href=\"#scratch介绍\">#</a> scratch 介绍</h2>\n<br>\n<blockquote>\n<p>Scratch 是麻省理工学院开发的一款简易图形化编程工具。这个软件的开发团队称为 “终身幼儿园团队”（Lifelong Kindergarten Group）。几乎所有的孩子都会一眼喜欢上这个软件。建立起做编程的欲望。</p>\n</blockquote>\n<blockquote>\n<p>建立程序的过程，用到涂鸦，录音，找图片这些有趣的过程。孩子的成品可以通过软件直接发布到官方网站上。官方网站给每个注册用户开通了一个个人空间，放置发布的程序。</p>\n</blockquote>\n<blockquote>\n<p>用户发布后的程序，在官网可以找到。制作中的程序只能在软件环境下运行，发布后的程序则是在网页内运行的。就是说，孩子们的作品可以通过网络被无数人看到。官方网站具有交友和评论的功能。国内亦有类似官网发布程序后在网页内运行的网站，方便国内爱好者和孩子们对作品进行交流。</p>\n</blockquote>\n<p>最后，附上一个基于 Scratch 的在线编辑器：<br>\nScratch3.0 离线版：<span class=\"exturl\" data-url=\"aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMU4wc1E0aFhRU1VleU56U1IwbU5iV3clRUYlQkMlOEM=\">https://pan.baidu.com/s/1N0sQ4hXQSUeyNzSR0mNbWw，</span><br>\n提取码：6ayn</p>\n<h2 id=\"scratch编辑器下载\"><a class=\"markdownIt-Anchor\" href=\"#scratch编辑器下载\">#</a> scratch 编辑器下载</h2>\n<br>\n<p>首先下载上面的百度网盘的编辑器，启动安装程序，<br>\n完成后双击 Scratch Desktop 快捷图标，即可打开软件使用了</p>\n<p>!! 这一期是不是太少了？！！<br>\nscratch 是一个简单的编程学习工具，是入门级，所以对于<s>程序员来说太简单了</s>新手来说还是需要一点的思维的。</p>\n",
+            "tags": [
+                "scratch"
+            ]
+        }
+    ]
+}

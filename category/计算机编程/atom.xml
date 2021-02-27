@@ -3,8 +3,38 @@
     <id>https://djwccc.jackiecat.xyz</id>
     <title>夏凌薄雾blog • Posts by &#34;计算机编程&#34; category</title>
     <link href="https://djwccc.jackiecat.xyz" />
-    <updated>2021-02-26T11:57:29.000Z</updated>
+    <updated>2021-02-27T13:30:56.000Z</updated>
+    <category term="scratch" />
     <category term="python" />
+    <entry>
+        <id>https://djwccc.jackiecat.xyz/2021/02/27/programming/scratch/scratch/</id>
+        <title>scratch基础</title>
+        <link rel="alternate" href="https://djwccc.jackiecat.xyz/2021/02/27/programming/scratch/scratch/"/>
+        <content type="html">&lt;h1 id=&#34;scratch基础&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#scratch基础&#34;&gt;#&lt;/a&gt; scratch 基础&lt;/h1&gt;
+&lt;h2 id=&#34;scratch介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#scratch介绍&#34;&gt;#&lt;/a&gt; scratch 介绍&lt;/h2&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Scratch 是麻省理工学院开发的一款简易图形化编程工具。这个软件的开发团队称为 “终身幼儿园团队”（Lifelong Kindergarten Group）。几乎所有的孩子都会一眼喜欢上这个软件。建立起做编程的欲望。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;建立程序的过程，用到涂鸦，录音，找图片这些有趣的过程。孩子的成品可以通过软件直接发布到官方网站上。官方网站给每个注册用户开通了一个个人空间，放置发布的程序。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用户发布后的程序，在官网可以找到。制作中的程序只能在软件环境下运行，发布后的程序则是在网页内运行的。就是说，孩子们的作品可以通过网络被无数人看到。官方网站具有交友和评论的功能。国内亦有类似官网发布程序后在网页内运行的网站，方便国内爱好者和孩子们对作品进行交流。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;最后，附上一个基于 Scratch 的在线编辑器：&lt;br&gt;
+Scratch3.0 离线版：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW4uYmFpZHUuY29tL3MvMU4wc1E0aFhRU1VleU56U1IwbU5iV3clRUYlQkMlOEM=&#34;&gt;https://pan.baidu.com/s/1N0sQ4hXQSUeyNzSR0mNbWw，&lt;/span&gt;&lt;br&gt;
+提取码：6ayn&lt;/p&gt;
+&lt;h2 id=&#34;scratch编辑器下载&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#scratch编辑器下载&#34;&gt;#&lt;/a&gt; scratch 编辑器下载&lt;/h2&gt;
+&lt;br&gt;
+&lt;p&gt;首先下载上面的百度网盘的编辑器，启动安装程序，&lt;br&gt;
+完成后双击 Scratch Desktop 快捷图标，即可打开软件使用了&lt;/p&gt;
+&lt;p&gt;!! 这一期是不是太少了？！！&lt;br&gt;
+scratch 是一个简单的编程学习工具，是入门级，所以对于&lt;s&gt;程序员来说太简单了&lt;/s&gt;新手来说还是需要一点的思维的。&lt;/p&gt;
+</content>
+        <category term="scratch" />
+        <updated>2021-02-27T13:30:56.000Z</updated>
+    </entry>
     <entry>
         <id>https://djwccc.jackiecat.xyz/2021/02/26/programming/python/python/</id>
         <title>python教程</title>
@@ -21,7 +51,7 @@ Python 解释器易于扩展，可以使用 C 或 C++（或者其他可以通过
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;a href=&#39;https://www.python.org/&#39;&gt;这里是 python 官网&lt;/a&gt;  &lt;br&gt;&lt;/p&gt;
 &lt;!-- &lt;img data-src=&#39;./imgs/4.jpg&#39; style=&#39;zoom:70%&#39;&gt; --&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; pytesseract&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;from&lt;/span&gt; PIL &lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; Image&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 读取图片&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;img = Image.&lt;span class=&#34;built_in&#34;&gt;open&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;./image/En1.png&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 识别文字，并指定语言&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;string = pytesseract.image_to_string(img)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;print(string)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; pytesseract&lt;br&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;from&lt;/span&gt; PIL &lt;span class=&#34;hljs-keyword&#34;&gt;import&lt;/span&gt; Image&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 读取图片&lt;/span&gt;&lt;br&gt;img = Image.&lt;span class=&#34;hljs-built_in&#34;&gt;open&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;#x27;./image/En1.png&amp;#x27;&lt;/span&gt;)&lt;br&gt;&lt;span class=&#34;hljs-comment&#34;&gt;# 识别文字，并指定语言&lt;/span&gt;&lt;br&gt;string = pytesseract.image_to_string(img)&lt;br&gt;print(string)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;这是一段python代码&lt;/p&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;python环境搭建&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python环境搭建&#34;&gt;#&lt;/a&gt; python 环境搭建&lt;/h2&gt;
@@ -53,10 +83,10 @@ Type “help”, “copyright”, “credits” or “license” for more   info
 然后会显示出这个界面&lt;br&gt;
 &lt;img data-src=&#39;https://i.loli.net/2021/02/26/PjVgprKhzosk78O.png&#39; style=&#39;zoom:50%&#39;&gt;&lt;/p&gt;
 &lt;p&gt;接下来，就可以输入 python 的代码&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption&gt;&lt;span&gt;第一行代码&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;print(&lt;span class=&#34;string&#34;&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption&gt;&lt;span&gt;第一行代码&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;print(&lt;span class=&#34;hljs-string&#34;&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt;)&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;输入后可以发现，你输入了一串代码，按下回车键～&lt;br&gt;
  可以看见，系统输出了&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;Hello, world!&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;code class=&#34;hljs python&#34;&gt;Hello, world!&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;恭喜你！迈出了编程的第一步～&lt;/p&gt;
 </content>
         <category term="python" />
